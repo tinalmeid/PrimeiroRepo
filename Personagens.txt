@@ -1,4 +1,7 @@
 Rey
 Obi Wan Kenobi
 Mater Yoda
+Leia Organa
+Chewbacca
+Han Solo
 Jabba the Hutt
